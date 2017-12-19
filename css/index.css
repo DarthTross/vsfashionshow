@@ -1,6 +1,7 @@
 aside, nav, header, section {display: block;}
 html, body{
     height: 100%;
+    font-family: "NRP";
 }
 a{
 	color: white;
