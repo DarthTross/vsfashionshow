@@ -1,0 +1,103 @@
+aside, nav, header, section {display: block;}
+html, body{
+    height: 100%;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:active{
+	color: grey;
+}
+a:hover {
+    color: grey;
+    transition: 0.2s linear;
+}
+a:not(:hover) {
+    transition: 0.3s;
+}
+#AVG{
+	margin: 0;
+	background-attachment: fixed;
+	background-color: #f6f4f4;
+}
+#WRAPPER{
+
+}
+#intro{
+    background-image: url(../images/logo2.png);
+    background-size: cover;
+	margin-top: 0px;
+	margin-left: 0;
+	margin-right: 0;
+    padding-bottom: 14%;
+}
+#quickmenu{
+    color: grey;
+    font-family: "NRP";
+    font-size: medium;
+    border-spacing: 0%;
+    //width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+#table{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.bar{
+    margin-left: 20%;
+    height: 45px;
+    width: 60%;
+    background-color: black;
+    -webkit-filter: opacity(80%);
+
+}
+#BASE{
+    margin-left: 20%;
+    width: 60%;
+    margin-top: 10px;
+    overflow: hidden;
+    background-color: black;
+    -webkit-filter: opacity(80%);
+}
+.aboutfs{
+    width: 95%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "NRP";
+    color: white;
+}
+.vsfs{
+    opacity: 80%;
+}
+.whatfs{
+    margin-top: 5px;
+    font-size: large;
+    color: grey;
+}
+.afterfs{
+    margin-bottom: 10px;
+}
+#FOOTER{
+    margin-left: 20%;
+    width: 60%;
+    height: 45px;
+    margin-top: 10px;
+    background-color: black;
+    -webkit-filter: opacity(80%);
+}
+.fStyle{
+    color: #cccccc;
+    font-family: "NRP";
+    font-size: medium;
+    border-spacing: 0%;
+    text-align: center;
+    padding-top: 12px;
+}
+.tableStyle{
+    font-family: "NRP";
+    color: white;
+}
