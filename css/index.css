@@ -98,6 +98,6 @@ a:not(:hover) {
     padding-top: 12px;
 }
 .tableStyle{
-    font-family: "NRP";
+    //font-family: "NRP";
     color: white;
 }
