@@ -34,7 +34,7 @@ a:not(:hover) {
 }
 #quickmenu{
     color: grey;
-    font-family: "NRP";
+    //font-family: "NRP";
     font-size: medium;
     border-spacing: 0%;
     //width: 50%;
@@ -67,7 +67,7 @@ a:not(:hover) {
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    font-family: "NRP";
+    //font-family: "NRP";
     color: white;
 }
 .vsfs{
@@ -91,7 +91,7 @@ a:not(:hover) {
 }
 .fStyle{
     color: #cccccc;
-    font-family: "NRP";
+    //font-family: "NRP";
     font-size: medium;
     border-spacing: 0%;
     text-align: center;
